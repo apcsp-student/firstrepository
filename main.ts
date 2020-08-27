@@ -38,3 +38,4 @@ let mySprite2 = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     `, 0)
 mySprite2.setPosition(10, 10)
+mySprite2.say("Hey you")
